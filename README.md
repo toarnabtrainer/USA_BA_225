@@ -9,6 +9,9 @@ https://app.diagrams.net/?libs=general;uml#
 **YouTube UML Tutorial Link:**<br>
 https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6MSsk
 
+**Example User Stories:**<br>
+https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
+
 **MS-Office/O365 Reference Tutorial Links -**<br>
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
